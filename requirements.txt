@@ -1,0 +1,1 @@
+just a space shooter game to learn how pygame works 

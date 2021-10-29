@@ -1,2 +1,2 @@
-# Test_game-0.0.2
-# this i just a test game (space shooter) to learn how pygame module works 
+# PygameForBeginners
+A simple 2D python game designed to teach you the pygame module.
